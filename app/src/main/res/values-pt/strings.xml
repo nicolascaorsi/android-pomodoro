@@ -1,0 +1,12 @@
+<resources>
+    <string name="action_settings">Configurações</string>
+
+    <string name="timer_tab">Timer</string>
+    <string name="history_tab">Histórico</string>
+    <string name="stopped">Parado</string>
+    <string name="finished">Finalizado</string>
+    <string name="today">Hoje</string>
+    <string name="yesterday">Ontem</string>
+    <string name="empty_history">Nenhum registro ainda, finalize seu primeiro Pomodoro! :)</string>
+    <string name="pomodoro_completed">Pomodoro finalizado.</string>
+</resources>
